@@ -4,7 +4,7 @@
 #
 Name     : R-tsne
 Version  : 0.1.3.1
-Release  : 49
+Release  : 50
 URL      : https://cran.r-project.org/src/contrib/tsne_0.1-3.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/tsne_0.1-3.1.tar.gz
 Summary  : T-Distributed Stochastic Neighbor Embedding for R (t-SNE)
